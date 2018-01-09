@@ -1,0 +1,16 @@
+[
+    {
+        "tab": "Default",
+        "key": "id",
+        "label": "parcelLab ID",
+        "type": "text",
+        "default": ""
+    },
+    {
+        "tab": "Default",
+        "key": "token",
+        "label": "parcelLab Token",
+        "type": "text",
+        "default": ""
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "name": "ParcelLab",
+    "marketplaceName": { "de": "parcelLab Versandnachrichten", "en": "parcelLab Shipping Notifications" },
+    "namespace": "ParcelLab",
+    "type": "template",
+    "version": "1.0.0",
+    "license": "AGPL-3.0",
+    "pluginIcon": "icon_plugin_xs.png",
+    "price": 0.00,
+    "description": "parcelLab | Say goodbye to boring shipping notifications!",
+    "shortDescription": { "de": "Plugin zur Anbindung der parcelLab-Versandnachrichten. Um parcelLab in Verbindung mit plentymarkets nutzen zu können, ist eine Händlerregistrierung bei parcelLab nötig.", "en": "Plugin for the integration of the parcelLab shipping notifications. A parcelLab merchant account is mandatory for setting up parcelLab in plentymarkets."},
+    "categories": ["3521"],
+    "author": "parcelLab GmbH",
+    "authorIcon": "icon_author_xs.png",
+    "email": "info@parcellab.com",
+    "phone": "+49 89 32890907",
+    "keywords": ["parcellab", "fulfillment"],
+    "require": [],
+    "serviceProvider": "ParcelLab\\Providers\\ParcelLabServiceProvider",
+    "dataProviders": []
+}
