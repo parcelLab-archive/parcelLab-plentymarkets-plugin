@@ -126,4 +126,4 @@ Set up an event procedure to automate the creation of shipping notifications. No
 
 ---------------------------------------
 
-For more information on all topics, please visit the [parcelLab Docs] (https://docs.parcellab.com/).
+For more information on all topics, please visit the [parcelLab Docs](https://docs.parcellab.com/).
