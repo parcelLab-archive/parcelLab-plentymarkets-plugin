@@ -1,5 +1,5 @@
 # Release Notes for parcelLab
  
-## v1.0.0 (2018-01-XX)
+## v1.0.0 (2018-01-16)
 
 - Initial release
