@@ -55,10 +55,8 @@ class CreateTrackingEventProcedure
 
 		if (!is_null($this->order) && $this->order instanceof Order) {
 
-			/* @var $addressRelation AddressOrderRelation */
-			$addressRelation = $this->order->addressRelations[1]; // Delivery address
-
-			$this->deliveryAddress = $addressRepo->findAddressById($addressRelation->addressId);
+			// Read delivery address from order
+			$this->deliveryAddress = $this->order->deliveryAddress;
 			$this->getLogger(__METHOD__)->debug('ParcelLab::General.address', ['address' => $this->deliveryAddress]);
 
 			// Get required keys
