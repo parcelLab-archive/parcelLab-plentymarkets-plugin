@@ -3,7 +3,7 @@
     "marketplaceName": { "de": "parcelLab Versandnachrichten", "en": "parcelLab Shipping Notifications" },
     "namespace": "ParcelLab",
     "type": "template",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "AGPL-3.0",
     "pluginIcon": "icon_plugin_xs.png",
     "price": 0.00,
