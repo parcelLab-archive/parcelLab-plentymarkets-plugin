@@ -8,6 +8,8 @@ This is a plugin for [plentymarkets 7](https://www.plentymarkets.com). No other 
 
 ## Installing
 
+A installation guide in German in available in the plentyMarketplace: [parcelLab Versandnachrichten on plentyMarketplace](https://marketplace.plentymarkets.com/plugins/integration/parcellab_5287)
+
 For detailed information about plugin provisioning refer to [plentymarkets developers](https://developers.plentymarkets.com/dev-doc/basics#plugin-provisioning).
 
 ## License
