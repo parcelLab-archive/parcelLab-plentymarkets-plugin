@@ -300,8 +300,13 @@ class CreateTrackingEventProcedure
 			'DHL' => 'dhl-germany',
 			'Hermes' => 'hermes-de',
 			'DPD' => 'dpd-de',
+			'DPD Classic' => 'dpd-de',
+			'DPD Express' => 'dpd-de',
 			'UPS' => 'ups',
-			'GLS' => 'gls'
+			'UPS Standard' => 'ups',
+			'UPS Express Saver' => 'ups',
+			'GLS' => 'gls',
+			'FedEx' => 'fedex'
 		];
 
 		$needle = strtolower($parcelServiceName->name);
