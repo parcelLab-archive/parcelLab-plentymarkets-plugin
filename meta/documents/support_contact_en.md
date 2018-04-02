@@ -4,7 +4,7 @@
 
 ## Email
 
-[info@parcellab.com](info@parcellab.com)
+[support@parcellab.com](support@parcellab.com)
 
 ## Phone
 
